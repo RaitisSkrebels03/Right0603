@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Raitis
-- 👀 I am interested in creating Pet projects
-- 🌱 I'm currently learning .NET, ASP.NET, Entity Framework, Django, Angular and Vue.js
+
